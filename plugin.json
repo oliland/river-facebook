@@ -1,0 +1,18 @@
+{
+  "name": "Facebook Inbox",
+  "identifier": "com.oliland.river.facebook-inbox",
+  "description": "Read Facebook Inbox messages",
+  "titleImage": "facebook.png",
+  "developer": {
+    "name": "oliland",
+    "email": "oliver@kingshott.com",
+    "website": "http://oliver.kingshott.com/"
+  },
+  "icons": {
+    "small": "icons/facebook16.png",
+    "large": "icons/facebook32.png"
+  },
+  "providers": {
+    "stream": "inbox"
+  }
+}
